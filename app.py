@@ -152,7 +152,7 @@ if not st.session_state.quiz_done and st.session_state.current < len(st.session_
             st.session_state.current += 1
             st.session_state.show_result = False
             st.session_state.user_answer = None
-            st.experimental_rerun()
+            st.rerun()
 
 # Quiz abgeschlossen
 elif not st.session_state.quiz_done:
