@@ -342,7 +342,7 @@ if not st.session_state.quiz_done and st.session_state.current < len(st.session_
     q = st.session_state.shuffled_questions[st.session_state.current]
 
     if not st.session_state.show_result:
-        st.subheader(q["question"])
+        st.markdown(f"<div style='font-size:16px; line-height:1.6;'>{q['question']}</div>", unsafe_allow_html=True)
         col1, col2 = st.columns(2)
         with col1:
             if st.button("✅ Richtig", key=f"richtig_{st.session_state.current}"):
