@@ -27,7 +27,7 @@ questions = [
     {"question": "1.4 a) Diversifikation eines Produktportfolios kann horizontal, vertikal oder lateral erfolgen.", "answer": "richtig", "explanation": "Dies sind die drei Formen der Diversifikation."},
     {"question": "1.4 b) Das Anbieten von Jogurts in verschiedenen Geschmacksrichtungen entspricht dem Konzept einer Produktdifferenzierung.", "answer": "richtig", "explanation": "Dies ist ein typisches Beispiel für Differenzierung."},
     {"question": "1.4 c) (Mass-)Customization ist ein Spezialfall der Produktdifferenzierung und erfüllt individuelle Kundenbedürfnisse mittels einer eigenen Variante.", "answer": "richtig", "explanation": "Mass Customization ist individualisierte Differenzierung."},
-    {"question": "1.4 d) Eine Innovation setzt sich schneller durch, wenn ihre Nutzung einfach dargestellt und anderen mitgeteilt werden kann, z. B. mittels Sozialer Medien.", "answer": "richtig", "explanation": "Kommunizierbarkeit fördert Diffusion."},
+    {"question": "1.4 d) Eine Innovation setzt sich schneller durch, wenn ihre Nutzung einfach dargestellt und anderen mitgeteilt werden kann, z.B. mittels Sozialer Medien.", "answer": "richtig", "explanation": "Kommunizierbarkeit fördert Diffusion."},
 
     {"question": "1.5 a) In der Reifephase des Produktlebenszyklus wird der Wettbewerb schwächer und immer mehr neue Konkurrenten treten in den Markt ein.", "answer": "falsch", "explanation": "In der Reifephase nimmt der Wettbewerb zu, neue Konkurrenten treten eher in der Wachstumsphase ein."},
     {"question": "1.5 b) Der Relaunch ist ein Spezialfall der Leistungsdifferenzierung.", "answer": "richtig", "explanation": "Ein Relaunch verändert gezielt Produkteigenschaften und ist damit eine Differenzierung."},
