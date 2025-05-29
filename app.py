@@ -334,7 +334,7 @@ if "shuffled_questions" not in st.session_state:
     st.session_state.user_answer = None
 
 # Fortschrittsanzeige
-progress = (st.session_state.current) / len(st.session_state.shuffled_questions)
+progress = st.session_state.current / len(st.session_state.shuffled_questions)
 st.progress(progress)
 
 # Quiz Logik
@@ -342,7 +342,14 @@ if not st.session_state.quiz_done and st.session_state.current < len(st.session_
     q = st.session_state.shuffled_questions[st.session_state.current]
 
     if not st.session_state.show_result:
-        st.markdown(f"<div style='font-size:16px; line-height:1.6;'>{q['question']}</div>", unsafe_allow_html=True)
+        st.markdown(
+            f"""
+            <div style='font-size:20px; line-height:1.8; margin-bottom:25px;'>
+                {q['question']}
+            </div>
+            """, unsafe_allow_html=True
+        )
+
         col1, col2 = st.columns(2)
         with col1:
             if st.button("✅ Richtig", key=f"richtig_{st.session_state.current}"):
@@ -369,7 +376,7 @@ if not st.session_state.quiz_done and st.session_state.current < len(st.session_
             st.session_state.current += 1
             st.session_state.show_result = False
             st.session_state.user_answer = None
-            st.rerun()  # nutze ggf. st.experimental_rerun() bei älterer Version
+            st.rerun()
 
 # Quiz abgeschlossen
 elif not st.session_state.quiz_done:
