@@ -153,51 +153,51 @@ questions = [
 {"question": "1.10 a) Das Ziel der Kommunikationspolitik ist es, ein Produkt durch physische Präsenz von der Konkurrenz abzuheben.", "answer": "falsch", "explanation": "Kommunikationspolitik zielt auf Wahrnehmung und Information, nicht auf physische Präsenz."},
 {"question": "1.10 b) Der Begriff 'Above-the-Line' umfasst sämtliche klassische Werbung wie TV-Spots oder Plakate.", "answer": "richtig", "explanation": "Above-the-Line bezieht sich auf klassische, breit streuende Werbung."},
 {"question": "1.10 c) Werbung, Sponsoring und Verkaufsförderung sind typische Instrumente der Kommunikationspolitik.", "answer": "richtig", "explanation": "Diese drei zählen zu den zentralen Kommunikationsinstrumenten im Marketing."},
-{"question": "1.10 d) Der Hauptzweck von Public Relations ist die direkte Verkaufsförderung von Produkten.", "answer": "falsch", "explanation": "Public Relations dient dem Imageaufbau und nicht der direkten Verkaufsförderung."}
+{"question": "1.10 d) Der Hauptzweck von Public Relations ist die direkte Verkaufsförderung von Produkten.", "answer": "falsch", "explanation": "Public Relations dient dem Imageaufbau und nicht der direkten Verkaufsförderung."},
 
 {"question": "1.11 a) Im AIDA-Modell steht das 'I' für 'Intelligence'.", "answer": "falsch", "explanation": "Das 'I' steht für 'Interest', also Interesse."},
 {"question": "1.11 b) Das AIDA-Modell beschreibt die Phasen, die ein Kunde durchläuft – von der Aufmerksamkeit bis zur Handlung.", "answer": "richtig", "explanation": "Das AIDA-Modell zeigt die vier Phasen: Attention, Interest, Desire, Action."},
 {"question": "1.11 c) Die Awareness-Phase im AIDA-Modell steht für die Kaufentscheidung.", "answer": "falsch", "explanation": "Awareness bezieht sich auf Aufmerksamkeit, nicht Entscheidung."},
-{"question": "1.11 d) Das Modell berücksichtigt auch Aspekte der Nachkaufphase.", "answer": "falsch", "explanation": "Das klassische AIDA-Modell endet mit dem Kauf und berücksichtigt keine Nachkaufphasen."}
+{"question": "1.11 d) Das Modell berücksichtigt auch Aspekte der Nachkaufphase.", "answer": "falsch", "explanation": "Das klassische AIDA-Modell endet mit dem Kauf und berücksichtigt keine Nachkaufphasen."},
 
 {"question": "1.12 a) Content-Marketing gehört zum Inbound-Marketing.", "answer": "richtig", "explanation": "Content-Marketing ist ein zentrales Instrument im Inbound-Marketing."},
 {"question": "1.12 b) Inbound-Marketing umfasst primär Outbound-Maßnahmen wie Callcenter-Aktionen.", "answer": "falsch", "explanation": "Callcenter und Outbound-Aktionen gehören nicht zum Inbound-Ansatz."},
 {"question": "1.12 c) Beim Inbound-Marketing werden potenzielle Kunden durch hochwertige Inhalte auf das Unternehmen aufmerksam.", "answer": "richtig", "explanation": "Inbound-Marketing basiert auf Anziehung durch hilfreiche Inhalte."},
-{"question": "1.12 d) Klassische Werbung im Fernsehen ist Teil des Inbound-Marketings.", "answer": "falsch", "explanation": "Fernsehwerbung ist klassisches Outbound-Marketing."}
+{"question": "1.12 d) Klassische Werbung im Fernsehen ist Teil des Inbound-Marketings.", "answer": "falsch", "explanation": "Fernsehwerbung ist klassisches Outbound-Marketing."},
 
 {"question": "1.13 a) Im Rahmen der Customer Journey ist der erste Kontaktpunkt mit einer Marke immer der Kauf.", "answer": "falsch", "explanation": "Die Customer Journey beginnt oft lange vor dem Kauf – z.B. mit Online-Recherche."},
 {"question": "1.13 b) Touchpoints sind alle Kontaktpunkte, die ein Kunde mit einer Marke haben kann.", "answer": "richtig", "explanation": "Touchpoints umfassen jede Form von Berührungspunkten – physisch oder digital."},
 {"question": "1.13 c) Eine gut gemachte Webseite kann ein positiver Touchpoint in der Customer Journey sein.", "answer": "richtig", "explanation": "Webseiten sind zentrale, häufig erste Touchpoints."},
-{"question": "1.13 d) Die Customer Journey endet mit dem Kauf des Produkts.", "answer": "falsch", "explanation": "Die Nachkaufphase, z.B. Kundenservice, gehört auch dazu."}
+{"question": "1.13 d) Die Customer Journey endet mit dem Kauf des Produkts.", "answer": "falsch", "explanation": "Die Nachkaufphase, z.B. Kundenservice, gehört auch dazu."},
 
 {"question": "1.14 a) Sponsoring ist eine Maßnahme zur Verkaufsförderung.", "answer": "falsch", "explanation": "Sponsoring ist Teil der Öffentlichkeitsarbeit (Public Relations), nicht Verkaufsförderung."},
 {"question": "1.14 b) Verkaufsförderung richtet sich ausschließlich an Endkunden.", "answer": "falsch", "explanation": "Auch Händler oder Außendienstmitarbeitende können Ziel der Verkaufsförderung sein."},
 {"question": "1.14 c) Produktproben sind eine typische Maßnahme der Verkaufsförderung.", "answer": "richtig", "explanation": "Produktproben sind gängige Mittel zur Absatzsteigerung."},
-{"question": "1.14 d) Verkaufsförderung ist immer langfristig angelegt.", "answer": "falsch", "explanation": "Verkaufsförderung ist in der Regel kurzfristig und aktionsbezogen."}
+{"question": "1.14 d) Verkaufsförderung ist immer langfristig angelegt.", "answer": "falsch", "explanation": "Verkaufsförderung ist in der Regel kurzfristig und aktionsbezogen."},
 
 {"question": "1.15 a) Kommunikationsziele sollen SMART formuliert werden.", "answer": "richtig", "explanation": "SMART steht für spezifisch, messbar, attraktiv, realistisch, terminiert."},
 {"question": "1.15 b) Kommunikationsziele sind identisch mit Unternehmenszielen.", "answer": "falsch", "explanation": "Kommunikationsziele leiten sich aus Unternehmenszielen ab, sind aber nicht identisch."},
 {"question": "1.15 c) Ein Kommunikationsziel kann z.B. die Steigerung der Markenbekanntheit sein.", "answer": "richtig", "explanation": "Dies ist ein klassisches Kommunikationsziel."},
-{"question": "1.15 d) Kommunikationsziele müssen nicht überprüfbar sein.", "answer": "falsch", "explanation": "Ziele sollten stets überprüfbar und messbar sein."}
+{"question": "1.15 d) Kommunikationsziele müssen nicht überprüfbar sein.", "answer": "falsch", "explanation": "Ziele sollten stets überprüfbar und messbar sein."},
 
-{"question": "1.16 a) Die Corporate Identity umfasst das visuelle Erscheinungsbild eines Unternehmens.", "answer": "richtig", "explanation": "Dies ist die Corporate Design Komponente der Corporate Identity."}
-{"question": "1.16 b) Corporate Behaviour beschreibt das Verhalten eines Unternehmens gegen innen und außen.", "answer": "richtig", "explanation": "Corporate Behaviour umfasst das Verhalten des Unternehmens gegenüber Mitarbeitenden und externen Anspruchsgruppen."}
-{"question": "1.16 c) Corporate Communication umfasst nur die externe Kommunikation.", "answer": "falsch", "explanation": "Corporate Communication beinhaltet sowohl interne als auch externe Kommunikation."}
-{"question": "1.16 d) Die Corporate Identity ist identisch mit dem Corporate Image.", "answer": "falsch", "explanation": "Corporate Identity ist das Selbstbild, Corporate Image ist das Fremdbild."}
+{"question": "1.16 a) Die Corporate Identity umfasst das visuelle Erscheinungsbild eines Unternehmens.", "answer": "richtig", "explanation": "Dies ist die Corporate Design Komponente der Corporate Identity."},
+{"question": "1.16 b) Corporate Behaviour beschreibt das Verhalten eines Unternehmens gegen innen und außen.", "answer": "richtig", "explanation": "Corporate Behaviour umfasst das Verhalten des Unternehmens gegenüber Mitarbeitenden und externen Anspruchsgruppen."},
+{"question": "1.16 c) Corporate Communication umfasst nur die externe Kommunikation.", "answer": "falsch", "explanation": "Corporate Communication beinhaltet sowohl interne als auch externe Kommunikation."},
+{"question": "1.16 d) Die Corporate Identity ist identisch mit dem Corporate Image.", "answer": "falsch", "explanation": "Corporate Identity ist das Selbstbild, Corporate Image ist das Fremdbild."},
 
-{"question": "1.17 a) Der Marketing-Controlling-Prozess endet mit der Zieldefinition.", "answer": "falsch", "explanation": "Der Prozess beginnt mit der Zieldefinition und endet mit der Kontrolle."}
-{"question": "1.17 b) Marketing-Controlling prüft, ob gesetzte Marketingziele erreicht wurden.", "answer": "richtig", "explanation": "Das ist eine zentrale Aufgabe des Marketings-Controllings."}
-{"question": "1.17 c) Marketing-Controlling ist ein Bestandteil der strategischen Planung.", "answer": "richtig", "explanation": "Marketing-Controlling unterstützt die strategische und operative Planung."}
-{"question": "1.17 d) Marketing-Controlling darf keine operativen Kennzahlen erfassen.", "answer": "falsch", "explanation": "Auch operative Kennzahlen sind Bestandteil des Marketings-Controllings."}
+{"question": "1.17 a) Der Marketing-Controlling-Prozess endet mit der Zieldefinition.", "answer": "falsch", "explanation": "Der Prozess beginnt mit der Zieldefinition und endet mit der Kontrolle."},
+{"question": "1.17 b) Marketing-Controlling prüft, ob gesetzte Marketingziele erreicht wurden.", "answer": "richtig", "explanation": "Das ist eine zentrale Aufgabe des Marketings-Controllings."},
+{"question": "1.17 c) Marketing-Controlling ist ein Bestandteil der strategischen Planung.", "answer": "richtig", "explanation": "Marketing-Controlling unterstützt die strategische und operative Planung."},
+{"question": "1.17 d) Marketing-Controlling darf keine operativen Kennzahlen erfassen.", "answer": "falsch", "explanation": "Auch operative Kennzahlen sind Bestandteil des Marketings-Controllings."},
 
-{"question": "1.18 a) Der Net Promoter Score (NPS) misst die Kundenzufriedenheit.", "answer": "falsch", "explanation": "Der NPS misst die Weiterempfehlungsbereitschaft, nicht die Zufriedenheit direkt."}
-{"question": "1.18 b) Der NPS ergibt sich aus dem Anteil der Promotoren minus dem Anteil der Detraktoren.", "answer": "richtig", "explanation": "Das ist die übliche Berechnung des NPS."}
-{"question": "1.18 c) Ein NPS von 0 bedeutet, dass es gleich viele Promotoren wie Detraktoren gibt.", "answer": "richtig", "explanation": "Ein Gleichstand ergibt einen NPS von 0."}
-{"question": "1.18 d) Der NPS wird üblicherweise auf einer Skala von 0 bis 5 gemessen.", "answer": "falsch", "explanation": "Die Skala reicht von 0 bis 10."}
+{"question": "1.18 a) Der Net Promoter Score (NPS) misst die Kundenzufriedenheit.", "answer": "falsch", "explanation": "Der NPS misst die Weiterempfehlungsbereitschaft, nicht die Zufriedenheit direkt."},
+{"question": "1.18 b) Der NPS ergibt sich aus dem Anteil der Promotoren minus dem Anteil der Detraktoren.", "answer": "richtig", "explanation": "Das ist die übliche Berechnung des NPS."},
+{"question": "1.18 c) Ein NPS von 0 bedeutet, dass es gleich viele Promotoren wie Detraktoren gibt.", "answer": "richtig", "explanation": "Ein Gleichstand ergibt einen NPS von 0."},
+{"question": "1.18 d) Der NPS wird üblicherweise auf einer Skala von 0 bis 5 gemessen.", "answer": "falsch", "explanation": "Die Skala reicht von 0 bis 10."},
 
-{"question": "1.19 a) Ein hoher Marktanteil ist immer ein Zeichen für hohe Profitabilität.", "answer": "falsch", "explanation": "Ein hoher Marktanteil garantiert nicht automatisch hohe Gewinne."}
-{"question": "1.19 b) Marktanteil ist das Verhältnis des Umsatzes eines Unternehmens zum Gesamtumsatz im Markt.", "answer": "richtig", "explanation": "Das entspricht der Definition des Marktanteils."}
-{"question": "1.19 c) Der relative Marktanteil misst den Anteil eines Unternehmens im Vergleich zum größten Wettbewerber.", "answer": "richtig", "explanation": "Das ist korrekt definiert."}
+{"question": "1.19 a) Ein hoher Marktanteil ist immer ein Zeichen für hohe Profitabilität.", "answer": "falsch", "explanation": "Ein hoher Marktanteil garantiert nicht automatisch hohe Gewinne."},
+{"question": "1.19 b) Marktanteil ist das Verhältnis des Umsatzes eines Unternehmens zum Gesamtumsatz im Markt.", "answer": "richtig", "explanation": "Das entspricht der Definition des Marktanteils."},
+{"question": "1.19 c) Der relative Marktanteil misst den Anteil eines Unternehmens im Vergleich zum größten Wettbewerber.", "answer": "richtig", "explanation": "Das ist korrekt definiert."},
 {"question": "1.19 d) Der Marktanteil ist keine relevante Kennzahl im Marketing-Controlling.", "answer": "falsch", "explanation": "Marktanteil ist eine zentrale Kennzahl im Marketing-Controlling."}
 
 ]
