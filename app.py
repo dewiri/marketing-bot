@@ -102,10 +102,10 @@ questions = [
     {"question": "1.19 a) Ein hoher Marktanteil ist immer ein Zeichen für hohe Profitabilität.", "answer": "falsch", "explanation": "Hoher Marktanteil bedeutet nicht automatisch hohe Gewinne."},
     {"question": "1.19 b) Marktanteil ist das Verhältnis des Umsatzes eines Unternehmens zum Gesamtumsatz im Markt.", "answer": "richtig", "explanation": "Das ist die Definition des Marktanteils."},
     {"question": "1.19 c) Der relative Marktanteil misst den Anteil eines Unternehmens im Vergleich zum größten Wettbewerber.", "answer": "richtig", "explanation": "Das ist korrekt."},
-    {"question": "1.19 d) Der Marktanteil ist keine relevante Kennzahl im Marketing-Controlling.", "answer": "falsch", "explanation": "Marktanteil ist eine zentrale Kennzahl."}
+    {"question": "1.19 d) Der Marktanteil ist keine relevante Kennzahl im Marketing-Controlling.", "answer": "falsch", "explanation": "Marktanteil ist eine zentrale Kennzahl."},
 
 
-    {"question": "1.1 a) Das Pricing ist deshalb von besonderer Bedeutung im Marketing-Mix, weil es einen indirekten Einfluss auf die Unternehmenskennzahlen hat.", "answer": "falsch", "explanation": "Pricing hat einen direkten Einfluss auf Umsatz und Gewinn, nicht nur indirekt."},
+{"question": "1.1 a) Das Pricing ist deshalb von besonderer Bedeutung im Marketing-Mix, weil es einen indirekten Einfluss auf die Unternehmenskennzahlen hat.", "answer": "falsch", "explanation": "Pricing hat einen direkten Einfluss auf Umsatz und Gewinn, nicht nur indirekt."},
 {"question": "1.1 b) Der Kompromisseffekt beschreibt den Effekt, dass Konsumenten einen Referenzpreis zur Preisbeurteilung heranziehen.", "answer": "falsch", "explanation": "Das ist der Ankereffekt. Der Kompromisseffekt beschreibt die Bevorzugung einer mittleren Option."},
 {"question": "1.1 c) Der Preisankereffekt beschreibt, dass Kund:innen, bei einer Vielzahl von Produkten mit unterschiedlichen Preisen innerhalb einer Produktlinie, Produkte in mittlerer Preisklasse wählen.", "answer": "falsch", "explanation": "Das ist eine Beschreibung des Kompromisseffekts, nicht des Preisankereffekts."},
 {"question": "1.1 d) Eine Edelstahl-Trinkflasche kostet CHF 10, die variablen Produktionskosten entsprechen CHF 2 pro Stück und die Fixkosten CHF 10'000. Von den Trinkflaschen verkaufen Sie 5000 Stück. Der resultierende Gewinn beträgt CHF 20'000.", "answer": "falsch", "explanation": "Rechnung: Erlös = 5000 × 10 = 50'000; Kosten = 10'000 + 5000 × 2 = 20'000; Gewinn = 30'000."},
@@ -148,7 +148,7 @@ questions = [
 {"question": "1.9 a) Das Ziel des Beschwerdemanagements ist die Rückgewinnung unzufriedener Kunden sowie die Vermeidung künftiger Beschwerden.", "answer": "richtig", "explanation": "Beides sind zentrale Ziele des Beschwerdemanagements."},
 {"question": "1.9 b) Beim Kundenbindungsmanagement geht es primär darum, unzufriedene Kunden möglichst schnell zu kündigen.", "answer": "falsch", "explanation": "Das Ziel ist Kundenbindung, nicht Kundenverlust."},
 {"question": "1.9 c) Loyalitätsprogramme können emotionale Bindung verstärken, z.B. durch exklusive Vorteile.", "answer": "richtig", "explanation": "Solche Programme fördern emotionale Kundenbindung."},
-{"question": "1.9 d) Kundenbindung ist nur durch Verträge möglich.", "answer": "falsch", "explanation": "Auch emotionale und freiwillige Bindung ist möglich."}
+{"question": "1.9 d) Kundenbindung ist nur durch Verträge möglich.", "answer": "falsch", "explanation": "Auch emotionale und freiwillige Bindung ist möglich."},
 
 {"question": "1.10 a) Das Ziel der Kommunikationspolitik ist es, ein Produkt durch physische Präsenz von der Konkurrenz abzuheben.", "answer": "falsch", "explanation": "Kommunikationspolitik zielt auf Wahrnehmung und Information, nicht auf physische Präsenz."},
 {"question": "1.10 b) Der Begriff 'Above-the-Line' umfasst sämtliche klassische Werbung wie TV-Spots oder Plakate.", "answer": "richtig", "explanation": "Above-the-Line bezieht sich auf klassische, breit streuende Werbung."},
