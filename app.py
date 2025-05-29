@@ -118,7 +118,7 @@ questions = [
 {"question": "1.3 a) Leistungen werden grundsätzlich nach intangibel und tangibel unterschieden.", "answer": "richtig", "explanation": "Diese Einteilung ist korrekt und unterscheidet materielle von immateriellen Leistungen."},
 {"question": "1.3 b) Die 'soziale Anerkennung' durch den Kauf eines auffälligen Sportwagens entspricht dem Erbauungsnutzen.", "answer": "richtig", "explanation": "Soziale Anerkennung zählt zum Erbauungsnutzen."},
 {"question": "1.3 c) Mit Massnahmen im Rahmen der Leistungspflege soll unter anderem die Wachstums- bzw. Reifephase einer Leistung in dessen Lebenszyklus verlängert werden.", "answer": "richtig", "explanation": "Das ist Ziel der Leistungspflege."},
-{"question": "1.3 d) Bei der Leistungsvariation werden bereits im Markt eingeführte Leistungen durch eine Variante ersetzt, bei der bestimmte Eigenschaften oder Leistungsmerkmale verbessert wurden.", "answer": "richtig", "explanation": "Das ist die Definition einer Leistungsvariation."}
+{"question": "1.3 d) Bei der Leistungsvariation werden bereits im Markt eingeführte Leistungen durch eine Variante ersetzt, bei der bestimmte Eigenschaften oder Leistungsmerkmale verbessert wurden.", "answer": "richtig", "explanation": "Das ist die Definition einer Leistungsvariation."},
 
 {"question": "1.4 a) Diversifikation eines Produktportfolios kann horizontal, vertikal oder lateral erfolgen.", "answer": "richtig", "explanation": "Das sind die drei anerkannten Formen der Diversifikation."},
 {"question": "1.4 b) Das Anbieten von Jogurts in verschiedenen Geschmacksrichtungen entspricht dem Konzept einer Produktdifferenzierung.", "answer": "richtig", "explanation": "Verschiedene Geschmacksrichtungen sind typische Produktdifferenzierung."},
